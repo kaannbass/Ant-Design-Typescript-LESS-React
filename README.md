@@ -15,7 +15,7 @@ npm install
 # Running the Application
 Once the dependencies are installed, use the following command to start the project:
 ```bash
-npm start
+npm run dev
 ```
 This command will launch the application and display it in your default web browser.
 
@@ -30,6 +30,7 @@ This project is developed using React, Less, Redux, and TypeScript. It includes 
 - **Programming Language:** TypeScript
 - **Styling:** LESS
 - **State Management:** Redux Toolkit
+- **Build Tool:** Vite
 - **API:** The Dummyjson API (https://dummyjson.com) has been used to fetch data information.
 
 # The design provided in the case
