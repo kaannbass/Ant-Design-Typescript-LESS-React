@@ -1,30 +1,39 @@
-# React + TypeScript + Vite
+# Omreon Case Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+## Installation
+Begin by cloning the project to your local machine:
+```bash
+git clone https://github.com/kaannbass/omreon-case.git
 ```
+Then navigate to the project directory and install the necessary dependencies:
+```bash
+cd omreon-case
+```
+```bash
+npm install
+```
+# Running the Application
+Once the dependencies are installed, use the following command to start the project:
+```bash
+npm start
+```
+This command will launch the application and display it in your default web browser.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+# About the Project
+
+This project is developed using React, Less, Redux, and TypeScript. It includes the following functionalities:
+
+- **Filtering Area:** The search bar on the table allows filtering data based on specific criteria.
+
+# Technical Details
+- **Framework:** React,TypeScript,LESS,Redux Toolkit
+- **Programming Language:** TypeScript
+- **Styling:** LESS
+- **State Management:** Redux Toolkit
+- **API:** The Dummyjson API (https://dummyjson.com) has been used to fetch data information.
+
+# The design provided in the case
+![case-image](https://github.com/kaannbass/omreon-case/assets/73648199/eade1858-1786-4315-b4cb-883e40928244)
+
+# The design that was designed and implemented.
+![a](https://github.com/kaannbass/omreon-case/assets/73648199/d1abce49-4def-4094-a6e9-7512707b8c7a)
