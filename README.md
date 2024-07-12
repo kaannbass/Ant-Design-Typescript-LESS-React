@@ -1,13 +1,13 @@
-# React, TypeScript, Less ve Ant Design ile Admin Dashboard'u Case Assignment
+# React, TypeScript, Less ve Ant Design Admin Dashboard Case Assignment
 
 ## Installation
 Begin by cloning the project to your local machine:
 ```bash
-git clone https://github.com/kaannbass/React,TypeScript,Less and Ant Design Admin Dashboard'u-case.git
+git clone https://github.com/kaannbass/Ant-Design-Typescript-LESS-React.git
 ```
 Then navigate to the project directory and install the necessary dependencies:
 ```bash
-cd React, TypeScript, Less ve Ant Design Admin Dashboard'u-case
+cd Ant-Design-Typescript-LESS
 ```
 ```bash
 npm install
