@@ -7,7 +7,7 @@ git clone https://github.com/kaannbass/Ant-Design-Typescript-LESS-React.git
 ```
 Then navigate to the project directory and install the necessary dependencies:
 ```bash
-cd Ant-Design-Typescript-LESS
+cd Ant-Design-Typescript-LESS-React
 ```
 ```bash
 npm install
