@@ -3,11 +3,11 @@
 ## Installation
 Begin by cloning the project to your local machine:
 ```bash
-git clone https://github.com/kaannbass/Ant-Design-Typescript-LESS-React.git
+git clone https://github.com/kaannbass/ant-design-typescript-less-react.git
 ```
 Then navigate to the project directory and install the necessary dependencies:
 ```bash
-cd Ant-Design-Typescript-LESS-React
+cd ant-design-typescript-less-react
 ```
 ```bash
 npm install
